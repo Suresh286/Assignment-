@@ -1,4 +1,4 @@
-ey Features:
+Key Features:
 
 Responsive Design: Adapts seamlessly to different screen sizes, including mobile and tablet devices.
 Custom Animations: Includes animated effects for banners, buttons, and section transitions to enhance user experience.
